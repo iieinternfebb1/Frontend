@@ -1,0 +1,26 @@
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #36d1dc, #5b86e5);
+}
+
+.login-box {
+  width: 400px;
+}
+
+.login-card {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+
+.register-link {
+  color: #007bff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.register-link:hover {
+  text-decoration: underline;
+}
